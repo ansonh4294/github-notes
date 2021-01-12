@@ -5,3 +5,7 @@ You can use git as a way to keep track of your history
 
 Github is a web service
 Github kinda of runs the git sofeware behind the scenes
+
+
+A repo is another word for project.
+It can have multilpe files that goes with it
