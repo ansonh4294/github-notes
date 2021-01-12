@@ -12,3 +12,4 @@ It can have multilpe files that goes with it
 
 
 A commit is like a way to save your work
+commit also have a hash code which mean a umique identifier for this commit that you made
