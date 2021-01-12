@@ -9,3 +9,6 @@ Github kinda of runs the git sofeware behind the scenes
 
 A repo is another word for project.
 It can have multilpe files that goes with it
+
+
+A commit is like a way to save your work
